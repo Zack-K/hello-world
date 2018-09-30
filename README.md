@@ -1,2 +1,6 @@
 # hello-world
-A test repository that I made as the first repository in Github
+
+## Hi Humans!
+
+Hubot here, I like Node.js and Cpffescript (that's what I'm made of!)  
+I've had tacos on the moon and find them far superior to Earth tacos.
